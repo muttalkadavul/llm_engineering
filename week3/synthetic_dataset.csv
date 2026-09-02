@@ -1,0 +1,21 @@
+PatientID,FirstName,LastName,DateOfBirth,Gender,InsuranceStatus,LastVisitDate,PostalCode,TreatmentNotes
+7485,Fiona,Garcia,10/12/2020,Male,Public,13/10/2024,02033,Composite filling on tooth #14. Follow up MRI needed.
+4170,Charlie,Williams,03/10/2020,Other,Public,15/04/2025,00037,Root canal treatment performed.
+6121,Ethan,Johnson,23/09/2018,Female,None,05/08/2025,06036,Composite filling on tooth #14. Follow up MRI needed.
+2903,Ethan,Johnson,08/01/2021,Male,Public,22/03/2026,07021,"Dental checkup, minor preventative work."
+4896,Bob,Garcia,23/10/2020,Male,Public,24/07/2025,05077,Routine cleaning and scaling.
+3574,Bob,Garcia,07/09/2021,Other,None,17/01/2025,09088,Routine cleaning and scaling.
+3366,Ethan,Jones,27/01/2020,Male,Private,01/09/2026,07071,"Dental checkup, minor preventative work."
+7967,Ethan,Brown,04/06/2021,Other,Private,27/04/2025,07092,Root canal treatment performed.
+6254,Charlie,Smith,01/11/2020,Other,Private,13/01/2025,08043,Emergency extraction. Stabilization complete.
+4159,Ethan,Brown,19/06/2018,Male,None,22/02/2025,04059,Composite filling on tooth #14. Follow up MRI needed.
+9844,Charlie,Brown,07/11/2018,Female,None,30/10/2024,02048,Emergency extraction. Stabilization complete.
+1685,Bob,Jones,10/04/2019,Male,None,20/01/2025,08021,Composite filling on tooth #14. Follow up MRI needed.
+8542,Charlie,Williams,28/08/2021,Female,Private,29/05/2025,00054,Composite filling on tooth #14. Follow up MRI needed.
+2131,Alice,Jones,11/03/2020,Other,None,07/12/2024,05088,"Dental checkup, minor preventative work."
+4316,Bob,Jones,09/09/2020,Male,Private,19/04/2026,04044,Composite filling on tooth #14. Follow up MRI needed.
+6215,Alice,Johnson,24/02/2021,Other,Public,30/05/2026,09021,"Dental checkup, minor preventative work."
+9670,Charlie,Jones,12/05/2021,Female,None,02/06/2026,05026,"Dental checkup, minor preventative work."
+3985,Diana,Jones,11/08/2019,Female,Private,08/10/2025,01055,"Dental checkup, minor preventative work."
+3492,Fiona,Smith,21/05/2021,Other,Private,28/03/2025,03000,Composite filling on tooth #14. Follow up MRI needed.
+1880,Ethan,Johnson,15/11/2018,Female,Public,19/08/2025,01083,Emergency extraction. Stabilization complete.
